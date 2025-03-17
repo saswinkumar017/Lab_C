@@ -11,4 +11,4 @@ area=pi*r*r;
 circum=2*pi*r;
 printf("Area=%f \n Circumference=%f",area,circum);
 getch();
-}
+ }

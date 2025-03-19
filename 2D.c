@@ -1,6 +1,5 @@
 #include <stdio.h>
-int main()
-{
+int main(){
 int day;
 printf("Enter Day Number (1 = Monday ..... 7 = Sunday)\n");
 scanf("%d", &day);

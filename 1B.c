@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
-void main()
-{
+void main(){
 int a,b,choice,s;
 clrscr();
 printf("\n Enter 2 values for a and b:");
